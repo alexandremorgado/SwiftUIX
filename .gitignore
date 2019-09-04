@@ -5,3 +5,6 @@
 /.build
 /Packages
 xcuserdata/
+
+Carthage/Build
+Carthage/Checkouts
